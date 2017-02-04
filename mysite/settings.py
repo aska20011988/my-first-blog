@@ -25,7 +25,7 @@ SECRET_KEY = 'cu*)wrdkcwg98^ks=-z(6#hn&$k5w#il5bhz(2fk%#9^d4klzt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aska.pythonanywhere.com']
+ALLOWED_HOSTS = ['aska.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
